@@ -154,7 +154,7 @@ body{
   }
   .projects-heading{
     text-align: center;
-    margin-top:  50px;
+    margin-top:  32%;
     font-size: 80px;
     font-family:"Blitz Light";
     color: rgb(129, 128, 128);
@@ -312,7 +312,7 @@ body{
 @media screen and (max-width : 1770px) {
   .projects-heading{
     text-align: center;
-    margin-top: 10px;
+    margin-top: 36%;
     font-size: 70px;
     font-family:"Blitz Light";
     color: rgb(129, 128, 128);
