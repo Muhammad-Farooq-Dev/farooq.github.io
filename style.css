@@ -1,4 +1,4 @@
-@import url(//db.onlinewebfonts.com/c/8d9aa1fa9b1ac34304ef78921cb41c81?family=Blitz);
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
 
 body{
   font-family: "Poppins", sans-serif;
@@ -83,7 +83,7 @@ body{
     top: 200px;
     left: 150px;
     bottom: 50px;
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
   }
   .news-class{
     text-align: center;
@@ -92,12 +92,12 @@ body{
   .news-heading{
     margin-top:  50px;
     font-size: 80px;
-    font-family:"Blitz Light";
+    font-family:"Poppins", sans-serif;
     color: rgb(129, 128, 128);
   }
   .news-paragraph{
     margin-top: 10px;
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
     font-size: 25px;
   }
   .product-image-card-contaier{
@@ -155,12 +155,12 @@ body{
     text-align: center;
     margin-top:  32%;
     font-size: 80px;
-    font-family:"Blitz Light";
+    font-family:"Poppins", sans-serif;
     color: rgb(129, 128, 128);
   }
   .projects-paragraph{
     margin-top: 10px;
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
     font-size: 25px;
   }
 
@@ -313,7 +313,7 @@ body{
     text-align: center;
     margin-top: 36%;
     font-size: 70px;
-    font-family:"Blitz Light";
+    font-family:"Poppins", sans-serif;
     color: rgb(129, 128, 128);
   }
   div.gallery {
@@ -478,7 +478,7 @@ body{
     top: 200px;
     left: 150px;
     bottom: 50px;
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
   }
 }
 @media screen and (max-width : 1248px){
@@ -510,7 +510,7 @@ body{
     top: 200px;
     left: 150px;
     bottom: 50px;
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
   }
 }
 @media screen and (max-width : 1185px){
@@ -547,7 +547,7 @@ body{
   .news-heading{
     margin-top: 40px;
     font-size: 50px;
-    font-family:"Blitz Light";
+    font-family:"Poppins", sans-serif;
     color: rgb(129, 128, 128);
   }
   div.gallery {
@@ -694,7 +694,7 @@ body{
     top: 150px;
     left: 100px;
     bottom: 50px;
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
   }
   div.gallery {
     margin: 5px 5px 2% 4%;
@@ -867,7 +867,7 @@ body{
     top: 100px;
     left: 60px;
     bottom: 25px;
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
   }
 
   div.gallery{
@@ -916,24 +916,24 @@ body{
   .news-heading{
     margin-top:  50px;
     font-size: 44px;
-    font-family:"Blitz Light";
+    font-family:"Poppins", sans-serif;
     color: rgb(129, 128, 128);
   }
   .news-paragraph{
     margin-top: 10px;
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
     font-size: 20px;
   }
   .projects-heading{
     margin-top: 10px;
     font-size: 37px;
-    font-family:"Blitz Light";
+    font-family:"Poppins", sans-serif;
     color: rgb(129, 128, 128);
     padding-left: 10px;
   }
   .projects-paragraph{
     margin-top: 10px;
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
     font-size: 19px;
     text-align: center;
   }
@@ -976,21 +976,21 @@ body{
   .inter-section .inside-content h3{
     font-size: 25px;
     color: white;
-    font-family:"Blitz Light";
+    font-family:"Poppins", sans-serif;
     padding-right: 200px;
   }
   .inter-section .inside-message{
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
     text-align: center;
   }
   .inter-section .inside-message h3{
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
     text-align: center;
     color: white;
     font-size: 25;
   }
   .inter-section .inside-message p{
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
     color: white;
     font-size: 18px;
   }
@@ -1173,7 +1173,7 @@ body{
     top: 100px;
     left: 60px;
     bottom: 25px;
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
   }
 
   div.gallery{
@@ -1221,25 +1221,25 @@ body{
   .news-heading{
     margin-top:  50px;
     font-size: 37px;
-    font-family:"Blitz Light";
+    font-family:"Poppins", sans-serif;
     color: rgb(129, 128, 128);
   }
   .news-paragraph{
     margin-top: 10px;
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
     font-size: 21px;
   }
 
   .projects-heading{
     margin-top: 10px;
     font-size: 37px;
-    font-family:"Blitz Light";
+    font-family:"Poppins", sans-serif;
     color: rgb(129, 128, 128);
     padding-left: 10px;
   }
   .projects-paragraph{
     margin-top: 10px;
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
     font-size: 18px;
     text-align: center;
   }
@@ -1282,21 +1282,21 @@ body{
   .inter-section .inside-content h3{
     font-size: 22px;
     color: white;
-    font-family:"Blitz Light";
+    font-family:"Poppins", sans-serif;
     padding-right: 200px;
   }
   .inter-section .inside-message{
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
     text-align: center;
   }
   .inter-section .inside-message h3{
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
     text-align: center;
     color: white;
     font-size: 25;
   }
   .inter-section .inside-message p{
-    font-family: "Blitz Light";
+    font-family: "Poppins", sans-serif;
     color: white;
     font-size: 18px;
   }
